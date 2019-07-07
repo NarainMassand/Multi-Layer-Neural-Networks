@@ -3,7 +3,7 @@ Back-Propagation
 Classification of MNIST data set using Back propagation algorithm   
 All code written in MATLAB and is compatible with all versions after 2012
 
-bppalmostdone.m - Classification done using 1 hudden layer   
+bppalmostdone.m - Classification done using 1 hidden layer   
 multilayerbpp.m - Classification done using multiple hidden layers depending on user   
 sigmoid.m - Activation function used in the algorithm   
 
